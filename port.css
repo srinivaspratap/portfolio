@@ -1,0 +1,51 @@
+/This is my comment line/
+body{
+    text-align: center;
+}
+header{
+    background-color: grey;
+    height: 100px;
+    text-align: center;
+}
+h1{
+    color: aliceblue;
+}
+ul li{ 
+    display: inline;
+    padding: 40px;
+    color:bLACK
+}
+ul li a{
+    color:bisque;
+    text-decoration: none;
+}
+p{
+    text-align: center ;
+}
+#home img{
+   border-radius:100%; 
+   margin-left: 600px;  
+}
+#portfolio{
+    text-align: center;
+    background-color: pink;
+}
+#skills{
+    text-align: center;
+    color: black;
+}
+#contact{
+    text-align: center;
+}
+#progress{
+    color: darkslateblue;
+}
+a{
+    text-decoration: none;
+}
+#home h2{
+    text-align: center;
+}
+form{
+    text-align: center;
+}
